@@ -2,8 +2,9 @@ import 'package:first_app/gradient_container.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-final int x = 10;
+  final int x = 10;
   final int y = 10;
+  final int miku = 10;
   runApp(
     const MaterialApp(
       home: Scaffold(
